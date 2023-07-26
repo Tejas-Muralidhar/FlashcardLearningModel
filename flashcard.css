@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+.card{
+    height: 350px;
+    width: 350px;
+    background-color: whitesmoke;
+    border: 4px dotted black;
+    margin: 10px;
+}
+.Deck{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#Logo{
+    text-decoration: none;
+    color: black;
+}
+/*Just checking!*/
+/*We use JS to hide the 13 other regions that were not selected!*/
