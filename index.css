@@ -93,3 +93,12 @@
 .quiz-link:hover{
     font-size: 30px;
 }
+.horizontal-line{
+    border: 1px solid rgb(0, 0, 0);
+    width: 75vw;
+    margin: 10px 10px;
+}    
+#heading{
+    text-decoration: none;
+    color: black;
+}
