@@ -10,20 +10,36 @@
 </head>
 <body>
   <!-- Navbar -->
-    <nav id="navbar">
-        <div id="navbar-div">
-          <a class="Logo">CardTastic</a>
-          <form role="search" id="form">
-            <input type="search" placeholder="Search" aria-label="Search" id="searchbar">
-            <button type="submit" id="search-button">Search</button>
-          </form>
-        </div>
-    </nav>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Home</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Mode
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Learn</a></li>
+              <li><a class="dropdown-item" href="#">Quiz</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search Flashcards" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
     <!-- Hero -->
     <div class="container col-xxl-8 px-4 py-5">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
           <div class="col-10 col-sm-8 col-lg-6">
-            <img src= " " alt=" " loading="lazy"> <!--Add hero image and alt text here-->
+            <img src= "./images/chemistry_flashcards.jpg " alt=" " loading="lazy"> <!--Add hero image and alt text here-->
           </div>
           <div class="col-lg-6">
             <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> <!--Add Hero Text here--> </h1>
