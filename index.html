@@ -10,68 +10,73 @@
 </head>
 <body>
   <!-- Navbar -->
-    <nav id="navbar">
+    <div id="navbar">
         <div id="navbar-div">
-          <a class="Logo">CardTastic</a>
-          <form role="search" id="form">
-            <input type="search" placeholder="Search" aria-label="Search" id="searchbar">
-            <button type="submit" id="search-button">Search</button>
-          </form>
+          <a href="#" class="Logo"><b>CardTastic</b></a>
+          <div id="about-search">
+            <button id="about-button">About</button>
+            <form role="search" id="form">
+              <input type="search" placeholder="Pick a topic!" aria-label="Search" id="searchbar">
+              <button type="submit" id="search-button">Search</button>
+            </form>
         </div>
-    </nav>
+        </div>
+    </div>
     <!-- Hero -->
-    <div class="container col-xxl-8 px-4 py-5">
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-          <div class="col-10 col-sm-8 col-lg-6">
-            <img src= " " alt=" " loading="lazy"> <!--Add hero image and alt text here-->
+    <div class="Herocontainer">
+        <div id="imageAndText">
+          <div class="HI">
+            <img src= "./images/woman_holding_flashcards_2.jpg" alt=" " loading="lazy" id="HeroImage"> <!--Add hero image and alt text here-->
           </div>
-          <div class="col-lg-6">
-            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> <!--Add Hero Text here--> </h1>
+          <div id="HeroText">
+            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> This is the Hero Text. This is just a demonstration! </h1>
           </div>
         </div>
-      </div>
+    </div>
 
     <hr class="horizontal-line">
 
     <!-- Flashcard Section -->
+    <h3>Flashcards</h3>
     <div id="flashcard-section">
       <div class="flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
     </div>
 
     <hr class="horizontal-line">
 
     <!-- Reverse Flashcard Section -->
+    <h3>Reverse Flashcards</h3>
     <div id="reverse-flashcard-section">
       <div class="reverse-flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="reverse-flashcard-deck">
         <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="reverse-flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
       <div class="reverse-flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h3> <!--Write topic name here--> </h3>
+        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
+        <h4> <!--Write topic name here--> </h4>
       </div>
     </div>
 
@@ -79,12 +84,13 @@
 
     <!-- Quiz Section -->
     <div id="Quiz">
+      <h3>Think you know it all? Take a Quiz and find out!</h3>
       <ul>
-        <li class="quiz-item"> <a href=""><!--Subject--></a> </li>
-        <li class="quiz-item"> <a href=""><!--Subject--></a> </li>
-        <li class="quiz-item"> <a href=""><!--Subject--></a> </li>
-        <li class="quiz-item"> <a href=""><!--Subject--></a> </li>
-        <li class="quiz-item"> <a href=""><!--Subject--></a> </li>
+        <li class="quiz-item"> <a href="" class="quiz-link">Math</a> </li>
+        <li class="quiz-item"> <a href="" class="quiz-link">Science</a> </li>
+        <li class="quiz-item"> <a href="" class="quiz-link">General Knowledge</a> </li>
+        <li class="quiz-item"> <a href="" class="quiz-link">Geography</a> </li>
+        <li class="quiz-item"> <a href="" class="quiz-link">History</a> </li>
       </ul>
     </div>
 
@@ -95,8 +101,8 @@
       <div>
         <h3>Project by: </h3>
         <ul>
-          <li>Tejas 1RN21CS171, RNSIT</li>
-          <li>Sanjana Janardhan 1RN21CS136, RNSIT</li>
+          <li class="credit">Tejas 1RN21CS171, RNSIT</li>
+          <li class="credit">Sanjana Janardhan 1RN21CS136, RNSIT</li>
         </ul>
       </div>
     </footer>
