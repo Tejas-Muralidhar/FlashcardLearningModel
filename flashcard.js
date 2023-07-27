@@ -1,12 +1,31 @@
-let toggle_button = document.querySelectorAll(".card");
-toggle_button.forEach(element => {
-    element.addEventListener("click",(e)=>{
-        if(element.style.backgroundColor === "black"){
-            element.style.backgroundColor = "whitesmoke";
-        }
-        else{
-            element.style.backgroundColor = "black";
-        }    
+function revealAnswer(event) {
+    var card = event.currentTarget;
+    var answer = card.querySelector('.answer');
+    var question = card.querySelector('.question');
+
+    if (question.style.display === 'block') {
+        card.style.backgroundColor = 'black';
+        card.style.color = 'whitesmoke';
+        answer.style.display = 'block';
+        question.style.display = 'none';
+    } else {
+        card.style.backgroundColor = 'whitesmoke';
+        card.style.color = 'black';
+        answer.style.display = 'none';
+        question.style.display = 'block';
+    }
+}
+
+// JavaScript function to add event listeners to all card divs within the Deck
+function addEventListenersToCards() {
+    var deck = document.querySelector('.Deck');
+    var cards = deck.querySelectorAll('.card');
+
+    cards.forEach(function (card) {
+        card.addEventListener('click', revealAnswer);
     });
-});
-//This helps toggle between questions and answers
+}
+
+// Call the function to add event listeners to all card divs within the Deck
+addEventListenersToCards();
+
