@@ -1,5 +1,6 @@
+/* **********************************************************************88 */
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');
-
+/* Hello */
 *{
     padding: 0;
     margin: 0;
@@ -12,6 +13,12 @@
     background-color: whitesmoke;
     border: 4px dotted black;
     margin: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    perspective: 100px; /*IDK why this perspective is needed! But it is!*/
 }
 .Deck{
     display: flex;
@@ -22,5 +29,10 @@
     text-decoration: none;
     color: black;
 }
-/*Just checking!*/
+.question{
+    display:block;
+}
+.answer{
+    display:none;
+}
 /*We use JS to hide the 13 other regions that were not selected!*/
