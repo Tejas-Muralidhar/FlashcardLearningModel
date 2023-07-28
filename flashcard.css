@@ -12,6 +12,9 @@
     background-color: whitesmoke;
     border: 4px dotted black;
     margin: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 .Deck{
     display: flex;
@@ -25,8 +28,8 @@
 
 .flip-card {
     background-color: transparent;
+    height: 300px;
     width: 300px;
-    height: 200px;
     border: 1px solid #f1f1f1;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
     }
@@ -53,17 +56,21 @@
     height: 100%;
     -webkit-backface-visibility: hidden; /* Safari */
     backface-visibility: hidden;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
 }
     
     /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-    background-color: #bbb;
+    background-color:lightskyblue;
     color: black;
  }
     
     /* Style the back side */
 .flip-card-back {
-    background-color: dodgerblue;
+    background-color:plum;
     color: white;
     transform: rotateY(180deg);
 }
