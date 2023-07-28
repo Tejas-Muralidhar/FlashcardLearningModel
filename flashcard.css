@@ -1,5 +1,6 @@
+/* **********************************************************************88 */
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');
-
+/* Hello */
 *{
     padding: 0;
     margin: 0;
@@ -12,6 +13,12 @@
     background-color: whitesmoke;
     border: 4px dotted black;
     margin: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    perspective: 100px; /*IDK why this perspective is needed! But it is!*/
 }
 .Deck{
     display: flex;
@@ -23,6 +30,7 @@
     color: black;
 }
 
+/* Sanjana flip animation below */
 .flip-card {
     background-color: transparent;
     width: 300px;
@@ -67,9 +75,15 @@
     color: white;
     transform: rotateY(180deg);
 }
+/* Sanjana flip animation above */
 
-
-
-
+/* This is fotr color toggle animation! Remove below if not needed */
 /*Just checking!*/
+.question{
+    display:block;
+}
+.answer{
+    display:none;
+}
+/* This is fotr color toggle animation! Remove above if not needed */
 /*We use JS to hide the 13 other regions that were not selected!*/
