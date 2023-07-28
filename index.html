@@ -17,9 +17,33 @@
             <div class="dropdown">
               <button class="dropbtn">Take a Quiz!</button>
               <div class="dropdown-content">
-                  <a href="page1.html">Topic 1</a>
-                  <a href="page2.html">Topic 2</a>
-                  <a href="page3.html">Topic 3</a>
+                  <div class="trial">
+                    <a class="quiz-item">Mathematics</a>
+                    <div id="math-dropdown" class="secondary-dropdown">
+                      <a href="" class="secondary-dropdown-content">Arithmetic</a>
+                      <a href="" class="secondary-dropdown-content">Algebra</a>
+                      <a href="" class="secondary-dropdown-content">Geometry</a>
+                    </div>
+                  </div>
+                  <a class="quiz-item science">Science</a>
+                  <div id="science-dropdown" class="secondary-dropdown">
+                    <a href="" class="secondary-dropdown-content">Physics</a>
+                    <a href="" class="secondary-dropdown-content">Chemistry</a>
+                    <a href="" class="secondary-dropdown-content">Biology</a>
+                  </div>
+                  <a class="quiz-item social">Social Studies</a>
+                  <div id="social-dropdown" class="secondary-dropdown">
+                    <a href="" class="secondary-dropdown-content">History</a>
+                    <a href="" class="secondary-dropdown-content">Geography</a>
+                  </div>
+                  <a href="" class="quiz-item">General Knowledge</a>
+                  <a href="" class="quiz-item">Sports</a>
+                  <a href="" class="quiz-item">Famous Personalities</a>
+                  <a class="quiz-item english">English</a>
+                  <div id="english-dropdown" class="secondary-dropdown">
+                    <a href="" class="secondary-dropdown-content">English Grammar</a>
+                    <a href="" class="secondary-dropdown-content">English Literature</a>
+                  </div>
                   <!-- Add more topic links as needed -->
               </div>
             </div>
@@ -31,10 +55,10 @@
     <div class="Herocontainer">
         <div id="imageAndText">
           <div class="HI">
-            <img src= "./images/Generic_Images/woman_holding_flashcards.jpg" alt=" " loading="lazy" id="HeroImage"> <!--Add hero image and alt text here-->
+            <img src= "./images/Generic_Images/hero.jpg" alt=" " loading="lazy" id="HeroImage"> <!--Add hero image and alt text here-->
           </div>
           <div id="HeroText">
-            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> This is the Hero Text. This is just a demonstration! </h1>
+            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> Supercharge Your Memory: Study Smarter with Flashcards! </h1>
           </div>
         </div>
     </div>
@@ -44,54 +68,119 @@
     <!-- Flashcard Section -->
     <h3><a href="./flashcard.html" id="heading">Flashcards</a></h3>
     <div id="flashcard-section">
-      <div class="flashcard-deck">
-        <a href="./flashcard.html?topic=Maths" class="topic-links" id="Maths">
-          <img src="" alt="" class="deck-image"> <!--Link topic image here-->
-          <h4> Mathematics </h4>
-        </a>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Algebra" class="topic-links" id="Algebra">
+            <img src="./images/Topic_Images/algebra3.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Algebra </h4>
       </div>
-      <div class="flashcard-deck">
-        <a href="./flashcard.html?topic=Physics" class="topic-links" id="Physics">
-          <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
-          <h4> Physics </h4>
-        </a>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=History" class="topic-links" id="History">
+            <img src="./images/Topic_Images/history.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4>History</h4>
       </div>
-      <div class="flashcard-deck">
-        <a href="./flashcard.html?topic=History" class="topic-links" id="History">
-          <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
-          <h4> History </h4>
-        </a>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Arithmetic" class="topic-links" id="Arithmetic">
+            <img src="./images/Topic_Images/arithmetic2.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Arithmetic</h4>
       </div>
-      <div class="flashcard-deck">
-        <a href="./flashcard.html?topic=Chemistry" class="topic-links" id="Chemistry">
-          <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
-          <h4> Chemistry </h4>
-        </a>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Chemistry" class="topic-links" id="Chemistry">
+            <img src="./images/Topic_Images/chemistry.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Chemistry</h4>
+      </div>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Physics" class="topic-links" id="Physics">
+            <img src="./images/Topic_Images/physics2.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Physics</h4>
+      </div>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Geometry" class="topic-links" id="Geometry">
+            <img src="./images/Topic_Images/geometry.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Geometry</h4>
+      </div>
+      <div class="deck-block">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Famous-Personalities" class="topic-links" id="Famous-Personalities">
+            <img src="./images/Topic_Images/famouspersonalities.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Famous Personalities</h4>
       </div>
     </div>
 
     <center><hr class="horizontal-line"></center>
 
     <!-- Reverse Flashcard Section -->
-    <h3>Reverse Flashcards</h3>
+    <h3><a href="./reverse-flashcard.html" id="heading">Reverse Flashcards</a></h3>
     <div id="reverse-flashcard-section">
-      <div class="reverse-flashcard-deck">
-        <img src="" alt="" class="deck-image"> <!--Link topic image here-->  
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=English-Grammar" class="topic-links" id="English-Grammar">
+            <img src="./images/Topic_Images/grammar2.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> English Grammar</h4>
+      </div>
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=Geography" class="topic-links" id="Geography">
+            <img src="./images/Topic_Images/geography.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
         <h4> Geography</h4>
       </div>
-      <div class="reverse-flashcard-deck">
-        <img src=""> <!--Link topic image here-->
-        <h4> English </h4>
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=Sports" class="topic-links" id="Sports">
+            <img src="./images/Topic_Images/sports.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4>Sports</h4>
       </div>
-      <div class="reverse-flashcard-deck">
-        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
-        <h4> Biology </h4>
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=English-Literature" class="topic-links" id="English-Literature">
+            <img src="./images/Topic_Images/Literature.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> English Literature</h4>
       </div>
-      <div class="reverse-flashcard-deck">
-        <img src="" alt="" class="deck-image"> <!--Link topic image here-->        
-        <h4> Famous Personalities </h4>
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=Biology" class="topic-links" id="Biology">
+            <img src="./images/Topic_Images/biology.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> Biology</h4>
+      </div>
+      <div class="deck-block">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=General-Knowledge" class="topic-links" id="General-Knowledge">
+            <img src="./images/Topic_Images/gerneralknowledge.jpg" alt="" class="deck-image"> <!--Link topic image here-->
+          </a>
+        </div>
+        <h4> General Knowledge</h4>
       </div>
     </div>
+    
 
     <center><hr class="horizontal-line"></center>
 
