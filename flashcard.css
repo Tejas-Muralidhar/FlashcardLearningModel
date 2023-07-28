@@ -76,18 +76,12 @@
     /* Style the back side */
 .flip-card-back {
     background-color:plum;
-    color: white;
+    color: black;
     transform: rotateY(180deg);
 }
 /* Sanjana flip animation above */
 
 /* This is fotr color toggle animation! Remove below if not needed */
 /*Just checking!*/
-.question{
-    display:block;
-}
-.answer{
-    display:none;
-}
 /* This is fotr color toggle animation! Remove above if not needed */
 /*We use JS to hide the 13 other regions that were not selected!*/
