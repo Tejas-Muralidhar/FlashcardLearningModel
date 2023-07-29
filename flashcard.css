@@ -86,7 +86,58 @@
 /* This is fotr color toggle animation! Remove above if not needed */
 /*We use JS to hide the 13 other regions that were not selected!*/
 
-#Geometry>.card>.flip-card>.flip-card-inner>.flip-card-front{
-    background-color: blue;
+#Geography>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: lightseagreen;
 }
 
+#Geography>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: darkseagreen;
+}
+
+#Physics>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: steelblue;
+}
+
+#Physics>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #5e63b6;
+}
+
+#History>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #ff895d;
+}
+
+#History>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: #f1b963;
+}
+
+#Arithmetic>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #79c2d0;
+}
+
+#Arithmetic>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: #bbe4e9;
+}
+
+#Chemistry>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: #c3195d;
+}
+
+#Chemistry>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #f76b8a;
+}
+
+#Algebra>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #9896f1;
+}
+
+#Algebra>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: #edb1f1;
+}
+
+#Geometry>.card>.flip-card>.flip-card-inner>.flip-card-front{
+    background-color: #0092ca;
+}
+
+#Geometry>.card>.flip-card>.flip-card-inner>.flip-card-back{
+    background-color: #9cd3d3;
+}
