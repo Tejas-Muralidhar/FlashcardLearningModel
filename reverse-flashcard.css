@@ -86,7 +86,50 @@
 /* This is fotr color toggle animation! Remove above if not needed */
 /*We use JS to hide the 13 other regions that were not selected!*/
 
-#Geometry>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
-    background-color: blue;
+#Famous-Personalities>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #ffc1c8;
 }
 
+#Famous-Personalities>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #cf7979;
+}
+
+#English-Literature>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #b60f2e;
+}
+
+#English-Literature>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #cf7979;
+}
+
+#English-Grammar>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #873d91;
+}
+
+#English-Grammar>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #dcb5ff;
+}
+
+#Sports>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #f16821;
+}
+
+#Sports>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #cd4545;
+}
+
+#General-Knowledge>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #daa12f;
+}
+
+#General-Knowledge>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #fc1313c9;
+}
+
+#Biology>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-front{
+    background-color: #7e63e0;
+}
+
+#Biology>.card>.reverse-flip-card>.reverse-flip-card-inner>.reverse-flip-card-back{
+    background-color: #a696c8;
+}

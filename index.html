@@ -2,17 +2,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="index.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-    <title>CardTasic</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Encode+Sans+SC&familyswap" rel="stylesheet">
+  <title>TurnNLearn</title>
 </head>
 <body>
   <!-- Navbar -->
         <div id="navbar-div">
-          <a href="#" class="Logo"><b>CardTastic</b></a>
+          <a href="#" class="Logo" ><b>TurnNLearn</b></a>
           <div id="about-quiz">
             <div class="dropdown">
               <button class="dropbtn"><b>Take a Quiz!</b></button>
@@ -30,19 +35,19 @@
           </div>
         </div>
         <div id="page-info">
-          <h4><b>Welcome to CardTastic!<br><br>Here is a bit about the website and it's functionalities:<br><br>
+          <h4><b>Welcome to TurnNLearn!<br><br>Our website offers the following features:<br><br>
             <ul>
-              <li class="about">You can choose Flashcards and Reverse Flashcards from the given range of topics below.</li><br>
-              <li class="about">Had enough of flipping cards? Take a quiz to find out how much you learnt.</li><br>
+              <li class="about">You can choose between Flashcards and Reverse Flashcards from the wide range of topics below.</li><br>
+              <li class="about">Bored of flipping cards? Take a quiz to find out how much you learnt.</li><br>
             </ul>
-            With that out of the way, Happy Learning!
+            Happy Learning!
           </b></h4>
         </div>
     <!-- Hero -->
     <div class="Herocontainer">
         <div id="imageAndText">
           <div class="HI">
-            <img src= "./images/Generic_Images/hero.jpg" alt=" " loading="lazy" id="HeroImage"> <!--Add hero image and alt text here-->
+            <img src= "./images/Generic_Images/hero2.jpg" alt=" " loading="lazy" id="HeroImage"> <!--Add hero image and alt text here-->
           </div>
           <div id="HeroText">
             <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3"> Supercharge Your Memory: Study Smarter with Flashcards! </h1>
@@ -50,11 +55,11 @@
         </div>
     </div>
 
-    <center><hr class="horizontal-line"></center>
+    
 
     <!-- Flashcard Section -->
     <br>
-    <h2 align="center"><a href="./flashcard.html" id="heading">Flashcards</a></h2>
+    <h2 align="center"><a href="./flashcard.html" id="heading" style="font-family: 'Encode Sans SC', sans-serif;">Flashcards</a></h2>
     <br>
     <div id="flashcard-section">
       <div class="deck-block">
@@ -106,8 +111,8 @@
         <h4> Geometry</h4>
       </div>
       <div class="deck-block">
-        <div class="reverse-flashcard-deck">
-          <a href="./reverse-flashcard.html?topic=Geography" class="topic-links" id="Geography">
+        <div class="flashcard-deck">
+          <a href="./flashcard.html?topic=Geography" class="topic-links" id="Geography">
             <img src="./images/Topic_Images/geography.jpg" alt="" class="deck-image"> <!--Link topic image here-->
           </a>
         </div>
@@ -119,7 +124,7 @@
 
     <!-- Reverse Flashcard Section -->
     <br>
-    <h2 align="center"><a href="./reverse-flashcard.html" id="heading">Reverse Flashcards</a></h2>
+    <h2 align="center"><a href="./reverse-flashcard.html" id="heading" style="font-family: 'Encode Sans SC', sans-serif;">Reverse Flashcards</a></h2>
     <br>
     <div id="reverse-flashcard-section">
       <div class="deck-block">
@@ -131,8 +136,8 @@
         <h4> English Grammar</h4>
       </div>
       <div class="deck-block">
-        <div class="flashcard-deck">
-          <a href="./flashcard.html?topic=Famous-Personalities" class="topic-links" id="Famous-Personalities">
+        <div class="reverse-flashcard-deck">
+          <a href="./reverse-flashcard.html?topic=Famous-Personalities" class="topic-links" id="Famous-Personalities">
             <img src="./images/Topic_Images/famouspersonalities.jpg" alt="" class="deck-image"> <!--Link topic image here-->
           </a>
         </div>
@@ -173,14 +178,17 @@
     </div>
 
     <center><hr class="horizontal-line"></center>
+
+  <br>
+
     
     <!-- Footer -->
     <footer>
       <div>
         <h3>Project by: </h3>
         <ul>
-          <li class="credit">Tejas 1RN21CS171, RNSIT</li>
-          <li class="credit">Sanjana Janardhan 1RN21CS136, RNSIT</li>
+          <li class="credit">Tejas, 1RN21CS171, RNSIT</li>
+          <li class="credit">Sanjana Janardhan, 1RN21CS136, RNSIT</li>
         </ul>
       </div>
     </footer>

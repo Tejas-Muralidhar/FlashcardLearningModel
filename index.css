@@ -1,12 +1,17 @@
 /* *************************************************************** */
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500&display=swap');
 
 *{
     /* Selected default font is font-family: 'Jost', sans-serif;*/
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Jost', sans-serif;
+    /* font-family: 'Jost', sans-serif; */
+    /* font-family: 'Montserrat Alternates', sans-serif; */
+}
+body{
+    background-color: #dff5f4;
 }
 /*Navbar styling*/
 #page-info{
@@ -15,15 +20,17 @@
     position: fixed;
     padding: 25px;
     top: 15%;
-    left: 35%;
+    left: 30%;
     border: 5px solid black;
-    height: 600px;
+    height: 400px;
     width: 500px;
-    background-color: whitesmoke;
+    background-color: #e3f6f5;
     justify-content: center;
     align-items: center;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,1);
     border-radius: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: larger;
 }
 #navbar-div{
     display: flex;
@@ -31,21 +38,23 @@
     align-items: center;
     flex-wrap: wrap;
     padding: 20px;
-    background-color:whitesmoke;
+    background-color: #0f083d;
     border-width: 10px;
-    border-color:whitesmoke
+    border-color:whitesmoke;
 }
 .Logo{
     text-decoration: none;
-    color: black;
-    font-size:2rem;
+    color: white;
+    font-size:3rem;
+    font-family: 'Caveat', cursive;
+    font-family: 'Concert One', cursive;
 }
 #about-quiz{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
     padding-left: 20px;
-    border-left: 2px solid black;
+    border-left: 2px solid white;
 }
 #about-button{
     position: relative;
@@ -55,11 +64,12 @@
     width: 100px;
     border-radius: 10px;
     font-size: 20px;
-    background-color: whitesmoke;
+    background-color: white;
 }
-#about-button:hover{
-    background-color: black;
+#about-button:hover {
+    background-color: #0f083d;
     color: whitesmoke;
+    border-color: white;
 }
 .dropdown {
     position: relative;
@@ -68,10 +78,11 @@
 
 }
 .dropbtn {
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
     font-size: 20px;
-    padding: 8px;
+    padding: 13px;
+    padding-bottom: 10px;
     border: 2px solid black;
     cursor: pointer;
     border-radius: 10px;
@@ -92,8 +103,9 @@
     display: block;
 }
 .dropdown-content a:hover {
-    background-color: black;
+    background-color: #0f083d;
     color: whitesmoke;
+    border-color: white;
     cursor: pointer;
     border-radius: 20px;
 }
@@ -104,7 +116,8 @@
     display: block;
 }
 .dropdown:hover .dropbtn{
-    background-color: black;
+    background-color: #0f083d;
+    border-color: white;
     color: whitesmoke;
 }
 .quiz-item:hover{
@@ -119,7 +132,7 @@
 #HeroImage{
     max-height: 400px;
     max-width:600px;
-    border: 5px solid rgb(26, 20, 112);
+    border: 5px solid #0f083d;
     border-radius: 20px;
     margin-right: 30px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,1);
@@ -127,6 +140,11 @@
 #HeroText{
     display: flex;
     align-items: center;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
+}
+.Herocontainer{
+    background-color:#bae8e8;
 }
 
 /*Flashcard and Reverse flashcard styling*/
@@ -137,6 +155,7 @@
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+    
 }
 .flashcard-deck, .reverse-flashcard-deck{
     width: 300px;
@@ -146,6 +165,10 @@
 }
 .deck-block{
     text-align: center;
+    margin-bottom: 30px;
+}
+.deck-block > h4{
+    font-size: x-large;
 }
 #quiz{
     max-height: 200px;
@@ -166,6 +189,7 @@
 #heading{
     text-decoration: none;
     color: black;
+    font-size: xx-large;
 }
 
 .topic-links{
