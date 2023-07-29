@@ -1,3 +1,6 @@
+// *********************************************************
+
+
 
 // Function to get query parameters from the URL
 function getQueryParam(param) {
@@ -25,7 +28,6 @@ function getQueryParam(param) {
 
   // Get the selected topic from the query parameter
   const selectedTopic = getQueryParam('topic');
-
   // If a topic is selected, show relevant flashcards
   if (selectedTopic!=null) {
     showRelevantReverseFlashcards(selectedTopic);

@@ -5,10 +5,10 @@ options.forEach(element => {
 
 function RevealStatus(e){
     if(e.target.classList.contains('correct')){
-        e.target.style.backgroundColor = 'green';
+        e.target.style.backgroundColor = '#7dd87d';
     }
     else{
-        e.target.style.backgroundColor = 'red';
+        e.target.style.backgroundColor = '#eb2632';
     }
 }
 
