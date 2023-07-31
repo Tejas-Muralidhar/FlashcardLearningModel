@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');
 
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Edu SA Beginner', cursive;
 }
 .submit{
     display: flex;
@@ -47,26 +46,11 @@
 body{
     background-color: #e3f6f5;
 }
-
-#Maths  .container, #Maths  .option, #Maths .submit-button{
-    background-color: #1f699b;
+.Deck>h1{
+    font-family: 'Amatic SC', cursive;
 }
-#Science  .container, #Science  .option, #Science .submit-button{
-    background-color: #3bc597;
-}
-#Social  .container, #Social  .option, #Social .submit-button{
-    background-color: #ac914a;
-}
-#Sports  .container, #Sports  .option, #Sports .submit-button{
+.container, .option,.submit-button{
     background-color: #070042;
     color: white;
 }
-#English  .container, #English  .option, #English .submit-button{
-    background-color: #8154a7;
-}
-#General-Knowledge  .container, #General-Knowledge  .option, #General-Knowledge .submit-button{
-    background-color: #a1ce77;
-}
-#Famous-Personalities  .container, #Famous-Personalities  .option, #Famous-Personalities .submit-button{
-    background-color: #61a39e;
-}
+
