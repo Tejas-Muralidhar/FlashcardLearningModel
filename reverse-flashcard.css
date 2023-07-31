@@ -16,7 +16,8 @@ header{
     height: 350px;
     width: 350px;
     background-color: whitesmoke;
-    border: 4px dotted black;
+    border-style:solid;
+    border-color: color(from color srgb r g b);
     margin: 10px;
     cursor: pointer;
     display: flex;
@@ -34,6 +35,7 @@ header{
     text-decoration: none;
     color: black;
 }
+
 
 /* Sanjana flip animation below */
 .reverse-flip-card {
