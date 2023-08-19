@@ -1,0 +1,650 @@
+[{
+  "question": "The lines that are equidistant from each other and never meet are called ____",
+  "answer": "Parallel lines",
+  "topic": "Geometry"
+},
+{
+  "question": "What is the area of the largest triangle that can be fitted into a rectangle of length 'l' units and width 'w' units?",
+  "answer": "lw/2",
+  "topic": "Geometry"
+},
+{
+  "question": "If two or more points lie on the same line, they are called _____",
+  "answer": "Collinear Points",
+  "topic": "Geometry"
+},
+{
+  "question": "D and E are midpoints of side AB and AC respectively of the ΔABC. A line drawn from A meets BC at H and DE at K. AK : KH = ?",
+  "answer": "1:1",
+  "topic": "Geometry"
+},
+{
+  "question": "Which is the quadrilateral with exactly one pair of parallel sides?",
+  "answer": "Trapezoid",
+  "topic": "Geometry"
+},
+{
+  "question": "How many squares with the side of 2 cm cover the surface of a rectangle with a length of 24 cm and a width of 8 cm?",
+  "answer": "48",
+  "topic": "Geometry"
+},
+{
+  "question": "What is a triangle with 3 unequal sides called?",
+  "answer": "Scalene Triangle",
+  "topic": "Geometry"
+},
+{
+  "question": "A ____ is a straight path with no beginning or an end.",
+  "answer": "Line",
+  "topic": "Geometry"
+},
+{
+  "question": "Can the term 'oblique' be used to describe a right angle?",
+  "answer": "Never",
+  "topic": "Geometry"
+},
+{
+  "question": "If the sum of two angles is an obtuse angle, at least one of the angles must be ______",
+  "answer": "Acute",
+  "topic": "Geometry"
+},
+{
+  "question": "The nth element of the sequence 1,3,5,7...... is _____",
+  "answer": "2n-1",
+  "topic": "Arithmetic"
+},
+{
+  "question": "The total age of three kids in a family is 27 years. What will be the total of their ages after three years?",
+  "answer": "36",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Simplify: 133 - 19 * 2 + 15",
+  "answer": "110",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Find the product of all the numbers present on the calculator pad.",
+  "answer": "0",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Jessi ran 12 laps every day for two weeks. How many laps did she run in all?",
+  "answer": "168",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Simplify the numerical expression: [36 ÷ (-9)] ÷ [(-24) ÷ 6]",
+  "answer": "1",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Find the missing number in the following: 7 - 24 ÷ 8 * m + 6 = 1",
+  "answer": "4",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Mehak bought 96 toys priced equally for Rs. 12960. The amount of Rs. 1015 is still left with him. Find the cost of each toy and the amount he had.",
+  "answer": "135 toys and Rs. 13,975",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Kamal's annual income is Rs. 2,88,000. His annual savings amount to Rs. 36,000. What is his total yearly expenditure?",
+  "answer": "Rs. 2,52,000",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Find the value of 45 ÷ 9 * 3 + 15 - 6",
+  "answer": "24",
+  "topic": "Arithmetic"
+},
+{
+  "question": "Solve for x: 2x + 22 = x + 1",
+  "answer": "-21",
+  "topic": "Algebra"
+},
+{
+  "question": "Solve: (5m - 3)/4 + (3m - 2)/5 = (m + 6)/7",
+  "answer": "1.1757",
+  "topic": "Algebra"
+},
+{
+  "question": "The sum of two numbers is 82 and their product is 1456, find the two numbers.",
+  "answer": "26 and 56",
+  "topic": "Algebra"
+},
+{
+  "question": "Solve the following system of algebraic equations: 2x + y = 8 and 3y = 4 + 4x",
+  "answer": "x = 2 and y = 4",
+  "topic": "Algebra"
+},
+{
+  "question": "A man said, “Each of my sons has as many brothers as sisters and each of my daughters has twice as many brothers as sisters”. How many sons and daughters does the man have?",
+  "answer": "2 sons and 3 daughters",
+  "topic": "Algebra"
+},
+{
+  "question": "A man bought 4 cows and 9 hens for ₹ 13400. If he sells the cows at 10% profit and hens at 20% profit, then he earns a total profit of ₹ 1880. What is the cost of a cow and a hen?",
+  "answer": "Cow at 2000 and hen at 600",
+  "topic": "Algebra"
+},
+{
+  "question": "50 kg of an alloy of lead and tin contains 60% of lead. How much lead must be melted into it to make the alloy of 75% lead?",
+  "answer": "30 kg",
+  "topic": "Algebra"
+},
+{
+  "question": "Solve for x: x^2 - 8x - 33 = 0",
+  "answer": "x = 11 and x = 3",
+  "topic": "Algebra"
+},
+{
+  "question": "Jamie's dad is 4 times older than Jamie. In 14 years time, Jamie's dad will be twice the age of Jamie. What is the sum of Jamie's age now and Jamie's dad's age now?",
+  "answer": "35",
+  "topic": "Algebra"
+},
+{
+  "question": "At a theme park the Jones family purchased 2 adult tickets and 3 child tickets for $48. The Evans family purchased 3 adult tickets and 1 child ticket for $44. Calculate the cost of one child ticket.",
+  "answer": "$8",
+  "topic": "Algebra"
+},
+{
+  "question": "Internal forces have no role to play in acceleration. True or False?",
+  "answer": "True",
+  "topic": "Physics"
+},
+{
+  "question": "What is the work done by centripetal force for a body moving in a circular path?",
+  "answer": "Zero",
+  "topic": "Physics"
+},
+{
+  "question": "The brilliance of a diamond is due to _____",
+  "answer": "Total Internal Reflection",
+  "topic": "Physics"
+},
+{
+  "question": "The rainbow is observed in which direction with respect to the sun?",
+  "answer": "Opposite to the sun",
+  "topic": "Physics"
+},
+{
+  "question": "Stars twinkle due to _____",
+  "answer": "Atmospheric Refraction",
+  "topic": "Physics"
+},
+{
+  "question": "Who is the Father of Modern Physics?",
+  "answer": "Albert Einstein",
+  "topic": "Physics"
+},
+{
+  "question": "How is photoelectric current affected by the intensity of incident light?",
+  "answer": "Photoelectric effect increases as intensity increases",
+  "topic": "Physics"
+},
+{
+  "question": "Which waves can be transmitted through the media of solids, liquids and gases?",
+  "answer": "Longitudinal Waves",
+  "topic": "Physics"
+},
+{
+  "question": "What does the displacement-time graph of a uniformly accelerated motion look like?",
+  "answer": "Parabola",
+  "topic": "Physics"
+},
+{
+  "question": "How many lens does a pinhole camera feature?",
+  "answer": "None",
+  "topic": "Physics"
+},
+{
+  "question": "Which quantum number gives the shape of the orbital?",
+  "answer": "Azimuthal quantum number",
+  "topic": "Chemistry"
+},
+{
+  "question": "The process of manufacture of sulphuric acid is named as what?",
+  "answer": "Contact Process",
+  "topic": "Chemistry"
+},
+{
+  "question": "What must be constant for the system to reach equilibrium?",
+  "answer": "Temperature",
+  "topic": "Chemistry"
+},
+{
+  "question": "Is milk acidic, neutral or basic?",
+  "answer": "Milk is slightly acidic due to its lactic acid content.",
+  "topic": "Chemistry"
+},
+{
+  "question": "What is the most abundant protein in the human body?",
+  "answer": "Collagen",
+  "topic": "Chemistry"
+},
+{
+  "question": "You can't live without iron. Where in the body is most of the iron located?",
+  "answer": "Your Blood",
+  "topic": "Chemistry"
+},
+{
+  "question": "Which ionic compound shows both frenkel and schottky defects?",
+  "answer": "AgBr",
+  "topic": "Chemistry"
+},
+{
+  "question": "What happens when when we pass chlorine into slaked lime?",
+  "answer": "Bleaching Powder is produced",
+  "topic": "Chemistry"
+},
+{
+  "question": "What is the chemcial formula of Tollen's reagent?",
+  "answer": "Ammonical silver nitrate solution (AgNO3 + NH3OH)",
+  "topic": "Chemistry"
+},
+{
+  "question": "Which element gained notoriety from poisoning the waters around Japan?",
+  "answer": "Mercury",
+  "topic": "Chemistry"
+},
+{
+  "question": "The United States bought Alaska from which country?",
+  "answer": "Russia",
+  "topic": "History"
+},
+{
+  "question": "What is the name of the whistleblower who leaked classified information from the National Security Agency (NSA) in 2013?",
+  "answer": "Edward Snowden",
+  "topic": "History"
+},
+{
+  "question": "What year did the Internet become available to the public?",
+  "answer": "1993",
+  "topic": "History"
+},
+{
+  "question": "Brexit refers to which country leaving the European Union?",
+  "answer": "The United Kingdom",
+  "topic": "History"
+},
+{
+  "question": "What was the name of the ancient trade route that connected the East with the West?",
+  "answer": "The Silk Road",
+  "topic": "History"
+},
+{
+  "question": "Who is the king of the Olympian gods in Greek mythology?",
+  "answer": "Zeus",
+  "topic": "History"
+},
+{
+  "question": "Who fought in the Hundred Years' War?",
+  "answer": "England and France",
+  "topic": "History"
+},
+{
+  "question": "During which war was a Christmas Truce called?",
+  "answer": "World War I",
+  "topic": "History"
+},
+{
+  "question": "What do the stripes on the American flag represent?",
+  "answer": "The original 13 colonies",
+  "topic": "History"
+},
+{
+  "question": "What was the acronym commonly used for the 2000 software problem that many thought would cause computers to become inoperable?",
+  "answer": "Y2K",
+  "topic": "History"
+},
+{
+  "question": "Which is the only country that borders the United Kingdom?",
+  "answer": "Ireland",
+  "topic": "Geography"
+},
+{
+  "question": "Which continent is in all four hemispheres?",
+  "answer": "Africa",
+  "topic": "Geography"
+},
+{
+  "question": "What is The Netherlands also called?",
+  "answer": "Holland",
+  "topic": "Geography"
+},
+{
+  "question": "Which is the only state in the US with a one-syllable name?",
+  "answer": "Maine",
+  "topic": "Geography"
+},
+{
+  "question": "What country is home to Mount Everest?",
+  "answer": "Nepal",
+  "topic": "Geography"
+},
+{
+  "question": "What is the capital city of New Zealand?",
+  "answer": "Wellington",
+  "topic": "Geography"
+},
+{
+  "question": "Where is the largest volcano on Earth located",
+  "answer": "Mauna Loa in Hawaii",
+  "topic": "Geography"
+},
+{
+  "question": "Which lake has a famous mythical creature named after it?",
+  "answer": "Loch Ness",
+  "topic": "Geography"
+},
+{
+  "question": "Which river flows through the Grand Canyon?",
+  "answer": "Colarado River",
+  "topic": "Geography"
+},
+{
+  "question": "By area, what is the smallest country in the world?",
+  "answer": "Vatican City",
+  "topic": "Geography"
+},
+{
+  "question": "The Indian to beat the computers in mathematical wizardry is ____",
+  "answer": "Shakuntala Devi",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Who is known as the 'Saint of the Gutters'?",
+  "answer": "Mother Teresa",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Who is known as Deenbandhu?",
+  "answer": "C.F. Andrews",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Who said 'Give me blood, and I shall give you freedom'?",
+  "answer": "Subhash Chandra Bose",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "R.K.Laxman excelled as a ____",
+  "answer": "Cartoonist",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "_____ is known as the Machiavelli of India",
+  "answer": "Chanakya",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Hari Prasad Chaurasia is a renowned player of _____",
+  "answer": "Flute",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Bachendri Pal became famous for her grand success in the field of ____",
+  "answer": "Mountaineering",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "'Escape acts' in magic was mainly contributed by ____",
+  "answer": "Harry Houdini",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "A woman president in Argentina is called as most powerful. Who is that?",
+  "answer": "Madame Eva Peron",
+  "topic": "Famous-Personalities"
+},
+{
+  "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'?",
+  "answer": "Shakespeare",
+  "topic": "English-Literature"
+},
+{
+  "question": "Who was the author of the famous storybook 'Alice's Adventures in Wonderland'?",
+  "answer": "Lewis Carroll",
+  "topic": "English-Literature"
+},
+{
+  "question": "Name the book which opens with the line 'All children, except one grew up'?",
+  "answer": "Peter Pan",
+  "topic": "English-Literature"
+},
+{
+  "question": "Which is the first Harry Potter book?",
+  "answer": "Harry Potter and the Philosopher's Stone",
+  "topic": "English-Literature"
+},
+{
+  "question": "Who is the writer of 'Treasure Island'?",
+  "answer": "Robert Louis Stevenson",
+  "topic": "English-Literature"
+},
+{
+  "question": "Who is the youngest literature laureate to win Nobel Prize?",
+  "answer": "Rudyard Kipling",
+  "topic": "English-Literature"
+},
+{
+  "question": "In which novel did the Sherlock Holmes character first appear?",
+  "answer": "A Study in Scarlet",
+  "topic": "English-Literature"
+},
+{
+  "question": "'Anna Karenina' is the creation of ____",
+  "answer": "Leo Tolstoy",
+  "topic": "English-Literature"
+},
+{
+  "question": "Who wrote the fantasy novel 'The Lord of the Rings'?",
+  "answer": "John Ronald Reuel Tolkien",
+  "topic": "English-Literature"
+},
+{
+  "question": "Which two cities are the settings for Charles Dickens 'A Tale of Two Cities?'",
+  "answer": "London and Paris",
+  "topic": "English-Literature"
+},
+{
+  "question": "Confabulate",
+  "answer": "Engage in conversation; talk",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Apathetic",
+  "answer": "Showing or feeling no interest, enthusiasm, or concern",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Catch-22",
+  "answer": "A catch-22 is a paradoxical situation from which an individual cannot escape because of contradictory rules or limitations.",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Affluent",
+  "answer": "Wealthy",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Tenacious",
+  "answer": "Unchanging and Stubborn",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Meager",
+  "answer": "Not enough in amount",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Inept",
+  "answer": "Unable to do well, bad at",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Beckon",
+  "answer": "To invite or attract to come to",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Overt",
+  "answer": "Not secret or hidden",
+  "topic": "English-Grammar"
+},
+{
+  "question": "Lull",
+  "answer": "A short period of calm or inactivity",
+  "topic": "English-Grammar"
+},
+{
+  "question": "What sport is best known as the 'king of sports'?",
+  "answer": "Soccer or Football",
+  "topic": "Sports"
+},
+{
+  "question": "What do you call it when a bowler makes three strikes in a row?",
+  "answer": "Turkey",
+  "topic": "Sports"
+},
+{
+  "question": "What color are the goalposts in football?",
+  "answer": "Sulphur Yellow",
+  "topic": "Sports"
+},
+{
+  "question": "In what game is “love” a score?",
+  "answer": "Tennis",
+  "topic": "Sports"
+},
+{
+  "question": "What is the only sport to be played on the moon?",
+  "answer": "Golf",
+  "topic": "Sports"
+},
+{
+  "question": "What team does LeBron James play for?",
+  "answer": "Los Angeles Lakers",
+  "topic": "Sports"
+},
+{
+  "question": "Which country won the first women's World Cup?",
+  "answer": "The United States",
+  "topic": "Sports"
+},
+{
+  "question": "What team owns the longest winning streak in NBA history?",
+  "answer": "Los Angeles Lakers",
+  "topic": "Sports"
+},
+{
+  "question": "What type of race is the Tour de France?",
+  "answer": "Bicycle Race",
+  "topic": "Sports"
+},
+{
+  "question": "In football, how many points does a touchdown hold?",
+  "answer": "6 points",
+  "topic": "Sports"
+},
+{
+  "question": "What is the doll, Barbie's, full name?",
+  "answer": "Barbara Millicent Roberts",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What is the lifespan of a dragonfly?",
+  "answer": "24 Hours",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "How many hearts does an octopus have?",
+  "answer": "3",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What is the furthest you can see with the naked eye?",
+  "answer": "The Andromeda Galaxy, which is located about 2.5 million light-years away from us",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "Which American pop star had back to back 2015 chart success with singles 'Sorry' and 'Love Yourself'?",
+  "answer": "Justin Bieber",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What do Ombrophobes have a fear of?",
+  "answer": "Rain",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What is the only bone in the human body that is not attached to any other bone?",
+  "answer": "Hyoid Bone",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "Who wrote 'The Canterbury Tales'?",
+  "answer": "Geoffrey Chaucer",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What is Rihanna's real name?",
+  "answer": "Robyn Fenty",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "What is Chandler Bing's middle name?",
+  "answer": "Muriel",
+  "topic": "General-Knowledge"
+},
+{
+  "question": "Mycology is the study of what?",
+  "answer": "Fungi",
+  "topic": "Biology"
+},
+{
+  "question": "Which part of the human body is responsible for producing insulin?",
+  "answer": "Pancreas",
+  "topic": "Biology"
+},
+{
+  "question": "A flying fox is a type of what?",
+  "answer": "Bat",
+  "topic": "Biology"
+},
+{
+  "question": "What is the rarest human blood type?",
+  "answer": "AB-negetive",
+  "topic": "Biology"
+},
+{
+  "question": "Which was the first animal cloned from a somatic cell?",
+  "answer": "Dolly the Sheep",
+  "topic": "Biology"
+},
+{
+  "question": "What is the scientific name for the kneecap?",
+  "answer": "Patella",
+  "topic": "Biology"
+},
+{
+  "question": "Which bird lays the smallest eggs?",
+  "answer": "Bee Hummingbird",
+  "topic": "Biology"
+},
+{
+  "question": "Which part of the body is unable to repair itself?",
+  "answer": "The Teeth",
+  "topic": "Biology"
+},
+{
+  "question": "A synonym of 'anger' or 'bitterness', what fluid is used to break down lipids in the small intestine?",
+  "answer": "Bile",
+  "topic": "Biology"
+},
+{
+  "question": "Vertigo is the scientific term for what?",
+  "answer": "A condition that creates dizziness",
+  "topic": "Biology"
+}]

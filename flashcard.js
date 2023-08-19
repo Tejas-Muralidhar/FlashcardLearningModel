@@ -1,7 +1,6 @@
 // *********************************************************
 
 
-
 // Function to get query parameters from the URL
 function getQueryParam(param) {
     const query = window.location.search;
@@ -33,3 +32,13 @@ function getQueryParam(param) {
   if (selectedTopic!=null) {
     showRelevantFlashcards(selectedTopic);
   }
+
+  
+  fetch("./Flashcards.cards.json")
+  .then(response => response.json())
+  .then(jsonData => {
+      //use jsonData as the array of objects and implement everything. We need to create tags and add appropriate data inside them. Then capture the elements using the DOM and place them there.
+  })
+  .catch(error => {
+      console.error("Error loading JSON:", error);
+  });
