@@ -1,0 +1,1155 @@
+[{
+  "question": "What is the value of 15 + 7 * 3?",
+  "options": [
+    "36",
+    "56",
+    "66",
+    "46"
+  ],
+  "correct": 0,
+  "topic": "Mathematics"
+},
+{
+  "question": "Solve for x: 3x + 10 = 25",
+  "options": [
+    "-5",
+    "15",
+    "5",
+    "10"
+  ],
+  "correct": 2,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the sum of the interior angles of a triangle?",
+  "options": [
+    "90",
+    "180",
+    "270",
+    "360"
+  ],
+  "correct": 1,
+  "topic": "Mathematics"
+},
+{
+  "question": "Calculate 25% of 80",
+  "options": [
+    "30",
+    "15",
+    "25",
+    "20"
+  ],
+  "correct": 3,
+  "topic": "Mathematics"
+},
+{
+  "question": "Simplify the expression: 2x + 5 - 3x + 8",
+  "options": [
+    "-x-13",
+    "-x+13",
+    "x-13",
+    "x+13"
+  ],
+  "correct": 1,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the formula to find the area of a circle with radius 'r'?",
+  "options": [
+    "πr",
+    "2πr",
+    "πr^2",
+    "r^2"
+  ],
+  "correct": 2,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the value of 4*4/4+4-4",
+  "options": [
+    "3",
+    "5",
+    "6",
+    "4"
+  ],
+  "correct": 3,
+  "topic": "Mathematics"
+},
+{
+  "question": "Solve for 'y': 3y - 7 = 16",
+  "options": [
+    "8",
+    "7",
+    "6",
+    "5"
+  ],
+  "correct": 0,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the total number of faces in a cube?",
+  "options": [
+    "10",
+    "8",
+    "6",
+    "4"
+  ],
+  "correct": 2,
+  "topic": "Mathematics"
+},
+{
+  "question": "If a book costs $30 and is on sale for 20% off, what is the sale price?",
+  "options": [
+    "$28",
+    "$24",
+    "$20",
+    "$18"
+  ],
+  "correct": 1,
+  "topic": "Mathematics"
+},
+{
+  "question": "Solve for 'x': 2(x - 4) = 16",
+  "options": [
+    "16",
+    "12",
+    "10",
+    "8"
+  ],
+  "correct": 3,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the formula to find the perimeter of a rectangle with length 'L' and width 'W'?",
+  "options": [
+    "L*W",
+    "2(L+W)",
+    "2L+W",
+    "L+2W"
+  ],
+  "correct": 1,
+  "topic": "Mathematics"
+},
+{
+  "question": "Calculate 5!",
+  "options": [
+    "20",
+    "180",
+    "120",
+    "80"
+  ],
+  "correct": 2,
+  "topic": "Mathematics"
+},
+{
+  "question": "Simplify the expression: 4(x - 3) + 2(2x + 1)",
+  "options": [
+    "6x-8",
+    "8x-6",
+    "6x+8",
+    "8x+6"
+  ],
+  "correct": 0,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the sum of the angles in a quadrilateral?",
+  "options": [
+    "180",
+    "270",
+    "360",
+    "90"
+  ],
+  "correct": 2,
+  "topic": "Mathematics"
+},
+{
+  "question": "What is the SI unit of force?",
+  "options": [
+    "Ohm",
+    "Joules",
+    "Newton",
+    "Watt"
+  ],
+  "correct": 2,
+  "topic": "Science"
+},
+{
+  "question": "What is the acceleration due to gravity on Earth's surface (approximately)?",
+  "options": [
+    "9.8 m/s^2",
+    "6.7 m/s^2",
+    "7.8 m/s^2",
+    "9.2 m/s^2"
+  ],
+  "correct": 0,
+  "topic": "Science"
+},
+{
+  "question": "Which law of motion states that 'for every action, there is an equal and opposite reaction'?",
+  "options": [
+    "Fourth Law",
+    "Third Law",
+    "First Law",
+    "Second Law"
+  ],
+  "correct": 1,
+  "topic": "Science"
+},
+{
+  "question": "What is the chemical symbol for water?",
+  "options": [
+    "H2O",
+    "H202",
+    "D20",
+    "D202"
+  ],
+  "correct": 0,
+  "topic": "Science"
+},
+{
+  "question": "Which gas makes up the majority of Earth's atmosphere?",
+  "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon Dioxide",
+    "Sulphur"
+  ],
+  "correct": 1,
+  "topic": "Science"
+},
+{
+  "question": "What is the pH value of a neutral solution?",
+  "options": [
+    "4.0",
+    "7.0",
+    "9.0",
+    "7.5"
+  ],
+  "correct": 1,
+  "topic": "Science"
+},
+{
+  "question": "What is the powerhouse of the cell, responsible for generating energy (ATP)?",
+  "options": [
+    "Nucleus",
+    "Ribosome",
+    "Golgi Apparatus",
+    "Mitochondria"
+  ],
+  "correct": 3,
+  "topic": "Science"
+},
+{
+  "question": "What is the primary function of red blood cells in the human body?",
+  "options": [
+    "Fighting infections",
+    "Digesting food",
+    "Producing hormones",
+    "Transporting oxygen"
+  ],
+  "correct": 3,
+  "topic": "Science"
+},
+{
+  "question": "Which part of the human body is responsible for pumping blood?",
+  "options": [
+    "Heart",
+    "Brain",
+    "Lungs",
+    "Liver"
+  ],
+  "correct": 0,
+  "topic": "Science"
+},
+{
+  "question": "What is the process by which green plants convert light energy into chemical energy?",
+  "options": [
+    "Transpiration",
+    "Fermentation",
+    "Photosynthesis",
+    "Respiration"
+  ],
+  "correct": 2,
+  "topic": "Science"
+},
+{
+  "question": "Which system in the human body is responsible for protecting against pathogens and diseases?",
+  "options": [
+    "Digestive system",
+    "Reproductive system",
+    "Nervous system",
+    "Immune system"
+  ],
+  "correct": 3,
+  "topic": "Science"
+},
+{
+  "question": "What is the largest organ of the human body?",
+  "options": [
+    "Lungs",
+    "Skin",
+    "Brain",
+    "Liver"
+  ],
+  "correct": 1,
+  "topic": "Science"
+},
+{
+  "question": "What is the basic unit of heredity in living organisms?",
+  "options": [
+    "Gene",
+    "Cell",
+    "Chromosome",
+    "Nucleus"
+  ],
+  "correct": 0,
+  "topic": "Science"
+},
+{
+  "question": "Which gas is essential for respiration and is exchanged during breathing?",
+  "options": [
+    "Carbon dioxide",
+    "Nitrogen",
+    "Oxygen",
+    "Sulphur"
+  ],
+  "correct": 2,
+  "topic": "Science"
+},
+{
+  "question": "Which of the following is a vertebrate?",
+  "options": [
+    "Snail",
+    "Fish",
+    "Spider",
+    "Worm"
+  ],
+  "correct": 1,
+  "topic": "Science"
+},
+{
+  "question": "What is the capital city of India?",
+  "options": [
+    "Kolkata",
+    "New Delhi",
+    "Bengaluru",
+    "Mumbai"
+  ],
+  "correct": 1,
+  "topic": "Social Studies"
+},
+{
+  "question": "Who was the first Emperor of the Maurya Dynasty in ancient India?",
+  "options": [
+    "Chandragupta Maurya",
+    "Ashoka The Great",
+    "Harsha",
+    "Akbar The Great"
+  ],
+  "correct": 0,
+  "topic": "Social Studies"
+},
+{
+  "question": "The Indus Valley Civilization was primarily centered around which modern-day country?",
+  "options": [
+    "Bhutan",
+    "India",
+    "Pakistan",
+    "Afghanistan"
+  ],
+  "correct": 2,
+  "topic": "Social Studies"
+},
+{
+  "question": "The Indian National Congress (INC), founded in 1885, played a significant role in India's independence movement. Who was its first president?",
+  "options": [
+    "Jawaharlal Nehru",
+    "Womesh Chunder Bonnerjee",
+    "Mahatma Gandhi",
+    "Bal Gangadhar Tilak"
+  ],
+  "correct": 1,
+  "topic": "Social Studies"
+},
+{
+  "question": "The famous 'Dandi March' led by Mahatma Gandhi in 1930 was a protest against:",
+  "options": [
+    "The salt tax imposed by the British",
+    "The partition of India",
+    "The Rowlatt Act",
+    "The imposition of martial law"
+  ],
+  "correct": 0,
+  "topic": "Social Studies"
+},
+{
+  "question": "The famous proclamation of 'Do or Die' was made by Mahatma Gandhi during which movement?",
+  "options": [
+    "Non-Cooperation Movement",
+    "Civil Disobedience Movement",
+    "Khilafat Movement",
+    "Quit India Movement"
+  ],
+  "correct": 3,
+  "topic": "Social Studies"
+},
+{
+  "question": "The historical monument 'Taj Mahal' is located in which Indian city?",
+  "options": [
+    "Mumbai",
+    "Surat",
+    "Agra",
+    "Delhi"
+  ],
+  "correct": 2,
+  "topic": "Social Studies"
+},
+{
+  "question": "Which continent is the largest by land area?",
+  "options": [
+    "Asia",
+    "Africa",
+    "North America",
+    "South America"
+  ],
+  "correct": 0,
+  "topic": "Social Studies"
+},
+{
+  "question": "What is the longest river in the world?",
+  "options": [
+    "Mississippi",
+    "Yangtze",
+    "Amazon",
+    "Nile"
+  ],
+  "correct": 3,
+  "topic": "Social Studies"
+},
+{
+  "question": "The city of Istanbul is located on two continents, Europe and Asia, separated by which strait?",
+  "options": [
+    "Bering Strait",
+    "Malacca Strait",
+    "Bosporus Strait",
+    "Strait of Gibraltar"
+  ],
+  "correct": 2,
+  "topic": "Social Studies"
+},
+{
+  "question": "Which country is known as the 'Land of the Rising Sun'?",
+  "options": [
+    "Japan",
+    "India",
+    "China",
+    "Thailand"
+  ],
+  "correct": 0,
+  "topic": "Social Studies"
+},
+{
+  "question": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
+  "options": [
+    "Brazil",
+    "Mexico",
+    "Indonesia",
+    "Australia"
+  ],
+  "correct": 3,
+  "topic": "Social Studies"
+},
+{
+  "question": "The 'Aurora Borealis' can often be seen in the polar regions near:",
+  "options": [
+    "South Pole",
+    "Equator",
+    "North Pole",
+    "Tropic of Cancer"
+  ],
+  "correct": 2,
+  "topic": "Social Studies"
+},
+{
+  "question": "In which ancient city is the famous archaeological wonder 'Petra' located?",
+  "options": [
+    "Rome",
+    "Jordan",
+    "Athens",
+    "Cairo"
+  ],
+  "correct": 1,
+  "topic": "Social Studies"
+},
+{
+  "question": "Which ocean is the largest and covers more than one-third of the Earth's surface?",
+  "options": [
+    "Pacific",
+    "Atlantic",
+    "Indian",
+    "Southern"
+  ],
+  "correct": 0,
+  "topic": "Social Studies"
+},
+{
+  "question": "What is the chemical symbol for gold?",
+  "options": [
+    "Au",
+    "Ag",
+    "G",
+    "Pb"
+  ],
+  "correct": 0,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Who wrote the famous play 'Romeo and Juliet'?",
+  "options": [
+    "William Wordsworth",
+    "William Shakespeare",
+    "Charles Dickens",
+    "Jane Austen"
+  ],
+  "correct": 1,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which instrument is used to measure atmospheric pressure?",
+  "options": [
+    "Hygrometer",
+    "Thermometer",
+    "Barometer",
+    "Anemometer"
+  ],
+  "correct": 2,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which planet is known as the 'Red Planet'?",
+  "options": [
+    "Mercury",
+    "Earth",
+    "Venus",
+    "Mars"
+  ],
+  "correct": 3,
+  "topic": "General Knowledge"
+},
+{
+  "question": "What is the largest mammal on Earth?",
+  "options": [
+    "Blue Whale",
+    "Elephant",
+    "Polar Bear",
+    "Giraffe"
+  ],
+  "correct": 0,
+  "topic": "General Knowledge"
+},
+{
+  "question": "In which country is the famous ancient monument 'Stonehenge' located?",
+  "options": [
+    "Italy",
+    "Egypt",
+    "UK",
+    "Greece"
+  ],
+  "correct": 2,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which novel, written by Harper Lee, deals with themes of racial injustice and moral growth, and features characters like Atticus Finch and Scout?",
+  "options": [
+    "Pride and Prejudice",
+    "To Kill A Mockingbird",
+    "The Great Gatsby",
+    "1984"
+  ],
+  "correct": 1,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which country is famous for its tulip fields and windmills?",
+  "options": [
+    "Switzerland",
+    "France",
+    "Germany",
+    "Netherlands"
+  ],
+  "correct": 3,
+  "topic": "General Knowledge"
+},
+{
+  "question": "The currency of Japan is known as:",
+  "options": [
+    "Yen",
+    "Peso",
+    "Yuan",
+    "Euro"
+  ],
+  "correct": 0,
+  "topic": "General Knowledge"
+},
+{
+  "question": "What is the tallest mountain in the world?",
+  "options": [
+    "Mount Kilimanjaro",
+    "Mount Everest",
+    "Mount McKinley",
+    "Mount Fuji"
+  ],
+  "correct": 1,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which famous scientist formulated the theory of relativity, represented by the equation E=mc^2?",
+  "options": [
+    "Isaac Newton",
+    "Charles Darwin",
+    "Albert Einstein",
+    "Marie Curie"
+  ],
+  "correct": 2,
+  "topic": "General Knowledge"
+},
+{
+  "question": "Which famous painting, created by Leonardo da Vinci, is known for its enigmatic smile?",
+  "options": [
+    "The Last Supper",
+    "The Starry Night",
+    "The Scream",
+    "Mona Lisa"
+  ],
+  "correct": 3,
+  "topic": "General Knowledge"
+},
+{
+  "question": "In which city is the headquarters of the United Nations located?",
+  "options": [
+    "Geneva",
+    "Vienna",
+    "NYC",
+    "Paris"
+  ],
+  "correct": 2,
+  "topic": "General Knowledge"
+},
+{
+  "question": "The 'Mona Lisa' is displayed in which famous museum in Paris, France?",
+  "options": [
+    "The British Museum",
+    "The Louvre",
+    "The Metropolitan Museum of Art",
+    "The Rijksmuseum"
+  ],
+  "correct": 1,
+  "topic": "General Knowledge"
+},
+{
+  "question": "What is the largest planet in our solar system?",
+  "options": [
+    "Earth",
+    "Uranus",
+    "Saturn",
+    "Jupiter"
+  ],
+  "correct": 3,
+  "topic": "General Knowledge"
+},
+{
+  "question": "In which sport would you perform a slam dunk?",
+  "options": [
+    "Rugby",
+    "Cricket",
+    "Soccer",
+    "Basketball"
+  ],
+  "correct": 3,
+  "topic": "Sports"
+},
+{
+  "question": "Who won the FIFA World Cup in 2018?",
+  "options": [
+    "France",
+    "Germany",
+    "Brazil",
+    "Argentina"
+  ],
+  "correct": 0,
+  "topic": "Sports"
+},
+{
+  "question": "Which sport is associated with the 'Ryder Cup'?",
+  "options": [
+    "Tennis",
+    "Golf",
+    "Soccer",
+    "Rugby"
+  ],
+  "correct": 1,
+  "topic": "Sports"
+},
+{
+  "question": "How many players are there on a standard soccer (football) team?",
+  "options": [
+    "13",
+    "12",
+    "11",
+    "10"
+  ],
+  "correct": 2,
+  "topic": "Sports"
+},
+{
+  "question": "The 'Super Bowl' is the championship game of which sport?",
+  "options": [
+    "American Football",
+    "Baseball",
+    "Hockey",
+    "Cricket"
+  ],
+  "correct": 0,
+  "topic": "Sports"
+},
+{
+  "question": "What is the scoring term used in golf when a player completes a hole in one stroke less than par?",
+  "options": [
+    "Bogey",
+    "Birdie",
+    "Albatross",
+    "Eagle"
+  ],
+  "correct": 1,
+  "topic": "Sports"
+},
+{
+  "question": "Which country hosted the 2016 Summer Olympics?",
+  "options": [
+    "Chile",
+    "Japan",
+    "Brazil",
+    "Argentina"
+  ],
+  "correct": 2,
+  "topic": "Sports"
+},
+{
+  "question": "Which athlete is often referred to as 'The Greatest' and is known for his boxing career and social activism?",
+  "options": [
+    "Muhammad Ali",
+    "Mike Tyson",
+    "Sugar Ray Robinson",
+    "Floyd Mayweather Jr."
+  ],
+  "correct": 0,
+  "topic": "Sports"
+},
+{
+  "question": "Which athlete holds the world record for the fastest 100-meter sprint in athletics (as of my last update in September 2021)?",
+  "options": [
+    "Asafa Powell",
+    "Tyson Gay",
+    "Usain Bolt",
+    "Carl Lewis"
+  ],
+  "correct": 2,
+  "topic": "Sports"
+},
+{
+  "question": "The 'Stanley Cup' is awarded to the champion of which professional sports league?",
+  "options": [
+    "NHL",
+    "NBA",
+    "MLB",
+    "NFL"
+  ],
+  "correct": 0,
+  "topic": "Sports"
+},
+{
+  "question": "In which sport would you find a 'halfpipe' and 'quarterpipe' used in competitions?",
+  "options": [
+    "Skateboarding",
+    "Snapboarding",
+    "Golf",
+    "Skiing"
+  ],
+  "correct": 1,
+  "topic": "Sports"
+},
+{
+  "question": "In which sport can you win the 'Heisman Trophy'?",
+  "options": [
+    "NBA",
+    "MLB",
+    "Soccer",
+    "American Football"
+  ],
+  "correct": 3,
+  "topic": "Sports"
+},
+{
+  "question": "Which country is known as a dominant force in the sport of cricket and has won the most ICC Cricket World Cups",
+  "options": [
+    "Australia",
+    "India",
+    "England",
+    "West Indies"
+  ],
+  "correct": 0,
+  "topic": "Sports"
+},
+{
+  "question": "In basketball, how many points is a free throw worth?",
+  "options": [
+    "4",
+    "2",
+    "1",
+    "3"
+  ],
+  "correct": 2,
+  "topic": "Sports"
+},
+{
+  "question": "The 'All England Open Badminton Championships' is one of the oldest and prestigious badminton tournaments held in which city?",
+  "options": [
+    "Jakarta",
+    "Beijing",
+    "London",
+    "Kuala Lampur"
+  ],
+  "correct": 2,
+  "topic": "Sports"
+},
+{
+  "question": "Which political leader was the first woman to become the Prime Minister of India?",
+  "options": [
+    "Angela Merkel",
+    "Margaret Thatcher",
+    "Golda Meir",
+    "Indira Gandhi"
+  ],
+  "correct": 3,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the co-founder of Microsoft and one of the world's wealthiest individuals?",
+  "options": [
+    "Mark Zuckerburg",
+    "Bill Gates",
+    "Steve Jobs",
+    "Jeff Bezos"
+  ],
+  "correct": 1,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which iconic actress is often referred to as 'Hollywood's Golden Age' star?",
+  "options": [
+    "Maryln Monroe",
+    "Audrey Hepburn",
+    "Elizabeth Taylor",
+    "Grace Kelly"
+  ],
+  "correct": 0,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the author of the famous Harry Potter book series?",
+  "options": [
+    "J.K. Rowling",
+    "J.R.R. Tolkien",
+    "George Orwell",
+    "Charles Dickens"
+  ],
+  "correct": 0,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the renowned Italian artist, sculptor, and architect known for painting the ceiling of the Sistine Chapel?",
+  "options": [
+    "Leonardo da Vinci",
+    "Michelangelo Buonarroti",
+    "Vincent Van Gogh",
+    "Pablo Picasso"
+  ],
+  "correct": 1,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which influential leader led the civil rights movement in the United States and delivered the iconic 'I Have a Dream' speech?",
+  "options": [
+    "Mahatma Gandhi",
+    "Nelson Mandela",
+    "Winston Churchill",
+    "Martin Luther King Jr."
+  ],
+  "correct": 3,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the famous theoretical physicist known for his groundbreaking work on black holes and cosmology?",
+  "options": [
+    "Albert Einstein",
+    "Neil Bohr",
+    "Stephen Hawking",
+    "Neil Degrass Tysoni"
+  ],
+  "correct": 2,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which legendary musician is often referred to as the 'Queen of Pop'?",
+  "options": [
+    "Madonna",
+    "Tina Turner",
+    "Whitney Houston",
+    "Beyoncé"
+  ],
+  "correct": 0,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the iconic American inventor and businessman known for developing the electric light bulb, phonograph, and motion picture camera?",
+  "options": [
+    "Thomas Edison",
+    "Alexander Graham Bell",
+    "Nikola Tesla",
+    "Steve Jobs"
+  ],
+  "correct": 0,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which Indian cricket legend is widely regarded as one of the greatest batsmen in the history of the sport and is known as the 'Little Master'?",
+  "options": [
+    "Virat Kohli",
+    "Rahul Dravid",
+    "Sachin Tendulkar",
+    "M.S. Dhoni"
+  ],
+  "correct": 2,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the Bollywood actor known as the 'King Khan' and has starred in numerous successful films both in India and internationally?",
+  "options": [
+    "Saif Ali Khan",
+    "Shah Rukh Khan",
+    "Salman Khan",
+    "Amir Khan"
+  ],
+  "correct": 1,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the former President of India, a renowned scientist, and the 'Missile Man of India'?",
+  "options": [
+    "Dr. Rajendra Prasad",
+    "Dr. Manmohan Singh",
+    "Dr. Zakir Husain",
+    "Dr. A.P.J Abdul Kalam"
+  ],
+  "correct": 3,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which Indian business tycoon is the Chairman of Reliance Industries Limited, one of India's largest conglomerates?",
+  "options": [
+    "N. R. Narayana Murthy",
+    "Mukesh Ambani",
+    "Ratan Tata",
+    "Azim Premji"
+  ],
+  "correct": 1,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the former Miss World, Bollywood actress, and philanthropist who has made her mark both in Indian and international cinema?",
+  "options": [
+    "Priyanka Chopra Jonas",
+    "Deepika Padukone",
+    "Aishwarya Rai Bachchan",
+    "Kareena Kapoor"
+  ],
+  "correct": 0,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Which legendary musician is often referred to as the 'King of Pop'?",
+  "options": [
+    "Elvis Presley",
+    "John Lennon",
+    "Michael Jackson",
+    "Bob Marley"
+  ],
+  "correct": 2,
+  "topic": "Famous Personalities"
+},
+{
+  "question": "Who is the author of the classic novel 'Pride and Prejudice'?",
+  "options": [
+    "Emily Brontë",
+    "Charles Dickens",
+    "Jane Austen",
+    "George Orwell"
+  ],
+  "correct": 2,
+  "topic": "English"
+},
+{
+  "question": "Which literary device refers to the repetition of consonant sounds at the beginning of words in a sentence or phrase?",
+  "options": [
+    "Alliteration",
+    "Metaphor",
+    "Simile",
+    "Personification"
+  ],
+  "correct": 0,
+  "topic": "English"
+},
+{
+  "question": "'To be or not to be, that is the question' is a famous line from which Shakespearean play?",
+  "options": [
+    "Romeo and Juliet",
+    "Hamlet",
+    "Othello",
+    "Macbeth"
+  ],
+  "correct": 1,
+  "topic": "English"
+},
+{
+  "question": "Which word functions as a bridge between two ideas and indicates a contrast or contradiction?",
+  "options": [
+    "Therefore",
+    "Furthermore",
+    "Additionally",
+    "However"
+  ],
+  "correct": 3,
+  "topic": "English"
+},
+{
+  "question": "In literature, what is the final resolution or outcome of the main complication in a story called?",
+  "options": [
+    "Denouement",
+    "Climax",
+    "Exposition",
+    "Conflict"
+  ],
+  "correct": 0,
+  "topic": "English"
+},
+{
+  "question": "Which literary work by George Orwell features a dystopian society where 'Big Brother is watching'?",
+  "options": [
+    "Animal Farm",
+    "Brave New World",
+    "1984",
+    "Fahrenheit 451"
+  ],
+  "correct": 2,
+  "topic": "English"
+},
+{
+  "question": "What is the correct past tense of the irregular verb 'go'?",
+  "options": [
+    "goen",
+    "wented",
+    "goed",
+    "went"
+  ],
+  "correct": 3,
+  "topic": "English"
+},
+{
+  "question": "What is the term for a brief reference to a person, place, event, or work of literature in another piece of literature?",
+  "options": [
+    "Allegory",
+    "Allusion",
+    "Foreshadowing",
+    "Symbolism"
+  ],
+  "correct": 1,
+  "topic": "English"
+},
+{
+  "question": "Which novel tells the story of young Pip and his encounters with the escaped convict Magwitch?",
+  "options": [
+    "Jane Eyre",
+    "Oliver Twist",
+    "Great Expectations",
+    "Wuthering Heights"
+  ],
+  "correct": 2,
+  "topic": "English"
+},
+{
+  "question": "Which figure of speech uses exaggeration for emphasis or effect?",
+  "options": [
+    "Onomatopoeia",
+    "Metaphor",
+    "Simile",
+    "Hyperbole"
+  ],
+  "correct": 3,
+  "topic": "English"
+},
+{
+  "question": "Who wrote the Gothic horror novel 'Frankenstein; or, The Modern Prometheus'?",
+  "options": [
+    "Edgar Allan Poe",
+    "Bram Stoker",
+    "H.G. Wells",
+    "Mary Shelley"
+  ],
+  "correct": 3,
+  "topic": "English"
+},
+{
+  "question": "Which novel features the character Atticus Finch and deals with themes of racial injustice and moral growth?",
+  "options": [
+    "Pride and Prejudice",
+    "The Great Gatsby",
+    "To Kill A Mockingbird",
+    "1984"
+  ],
+  "correct": 2,
+  "topic": "English"
+},
+{
+  "question": "In Shakespeare's play 'Macbeth', who is Macbeth's ambitious and manipulative wife?",
+  "options": [
+    "Lady Macbeth",
+    "Lady Macduff",
+    "Lady Capulet",
+    "Lady Montague"
+  ],
+  "correct": 0,
+  "topic": "English"
+},
+{
+  "question": "In Shakespeare's play 'Romeo and Juliet,' to which family does Romeo belong?",
+  "options": [
+    "Capulet",
+    "Montague",
+    "Verona",
+    "Benvolio"
+  ],
+  "correct": 1,
+  "topic": "English"
+},
+{
+  "question": "Which literary term refers to the use of words or phrases that sound like the things to which they refer (e.g., buzz, hiss, clang)?",
+  "options": [
+    "Hyperbole",
+    "Alliteration",
+    "Simile",
+    "Onomatopoeia"
+  ],
+  "correct": 3,
+  "topic": "English"
+}]
