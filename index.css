@@ -132,6 +132,7 @@ body{
 #imageAndText{
     display: flex;
     padding: 50px;
+    justify-content: center;
 }
 #HeroImage{
     max-height: 400px;
