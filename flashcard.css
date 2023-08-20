@@ -1,5 +1,7 @@
 /* **********************************************************************88 */
 /* Hello */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -34,6 +36,8 @@ header{
 #Logo{
     text-decoration: none;
     color: black;
+    font-family: 'Amatic SC', 'cursive';
+    font-size: larger;
 }
 
 /* Sanjana flip animation below */

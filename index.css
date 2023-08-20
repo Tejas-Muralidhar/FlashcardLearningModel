@@ -1,7 +1,7 @@
 /* *************************************************************** */
 /* @import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Tektur:wght@600&display=swap');  */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
 *{
     /* Selected default font is font-family: 'Jost', sans-serif;*/
     padding: 0;
@@ -47,8 +47,8 @@ body{
     text-decoration: none;
     color: white;
     font-size:3rem;
-    font-family: 'Caveat', cursive;
-    font-family: 'Concert One', cursive;
+    font-family: 'Caveat', 'cursive';
+    font-family: 'Concert One', 'cursive';
 }
 #about-quiz{
     display: flex;
@@ -175,7 +175,7 @@ body{
 }
 .deck-block > h4{
     font-size: x-large;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Marcellus', serif;
 }
 #quiz{
     max-height: 200px;

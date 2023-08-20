@@ -55,8 +55,6 @@ if (window.location.pathname.includes("quiz.html")) {
     const allquestions = document.createElement('div');
     allquestions.classList.add('allquestions');  
     jsonData.forEach(quiz => {
-      
-      console.log(allquestions);
       const topic = quiz.topic;
       const deck = document.getElementById(topic);
 
@@ -104,6 +102,7 @@ if (window.location.pathname.includes("quiz.html")) {
         alloptions.appendChild(button2);
         alloptions.appendChild(button3);
         container.appendChild(question);
+        container.appendChild(document.createElement('br'));
         container.appendChild(alloptions);
         allquestions.appendChild(container);
         deck.insertBefore(allquestions,deck.children[1]);

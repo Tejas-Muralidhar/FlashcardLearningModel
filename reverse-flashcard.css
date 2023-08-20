@@ -1,5 +1,5 @@
 /* **********************************************************************88 */
-
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 /* Hello */
 *{
     padding: 0;
@@ -35,6 +35,8 @@ header{
 #Logo{
     text-decoration: none;
     color: black;
+    font-family: 'Amatic SC', 'cursive';
+    font-size:larger;
 }
 
 

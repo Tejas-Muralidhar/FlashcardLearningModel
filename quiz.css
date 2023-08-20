@@ -1,9 +1,9 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Edu SA Beginner', 'cursive';
 }
 .submit{
     display: flex;
@@ -52,7 +52,11 @@ body{
     background-color: #e3f6f5;
 }
 .Deck>h1{
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Rowdies', cursive;
+    color: white;
+    padding-bottom: 10px;
+    border-bottom: 5px solid;
+    background-color: #070042;
 }
 .container, .option,.submit-button{
     background-color: #070042;
