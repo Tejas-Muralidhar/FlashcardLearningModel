@@ -337,7 +337,7 @@
     "Mumbai"
   ],
   "correct": 1,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "Who was the first Emperor of the Maurya Dynasty in ancient India?",
@@ -348,7 +348,7 @@
     "Akbar The Great"
   ],
   "correct": 0,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The Indus Valley Civilization was primarily centered around which modern-day country?",
@@ -359,7 +359,7 @@
     "Afghanistan"
   ],
   "correct": 2,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The Indian National Congress (INC), founded in 1885, played a significant role in India's independence movement. Who was its first president?",
@@ -370,7 +370,7 @@
     "Bal Gangadhar Tilak"
   ],
   "correct": 1,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The famous 'Dandi March' led by Mahatma Gandhi in 1930 was a protest against:",
@@ -381,7 +381,7 @@
     "The imposition of martial law"
   ],
   "correct": 0,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The famous proclamation of 'Do or Die' was made by Mahatma Gandhi during which movement?",
@@ -392,7 +392,7 @@
     "Quit India Movement"
   ],
   "correct": 3,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The historical monument 'Taj Mahal' is located in which Indian city?",
@@ -403,7 +403,7 @@
     "Delhi"
   ],
   "correct": 2,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "Which continent is the largest by land area?",
@@ -414,7 +414,7 @@
     "South America"
   ],
   "correct": 0,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "What is the longest river in the world?",
@@ -425,7 +425,7 @@
     "Nile"
   ],
   "correct": 3,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The city of Istanbul is located on two continents, Europe and Asia, separated by which strait?",
@@ -436,7 +436,7 @@
     "Strait of Gibraltar"
   ],
   "correct": 2,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "Which country is known as the 'Land of the Rising Sun'?",
@@ -447,7 +447,7 @@
     "Thailand"
   ],
   "correct": 0,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
@@ -458,7 +458,7 @@
     "Australia"
   ],
   "correct": 3,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "The 'Aurora Borealis' can often be seen in the polar regions near:",
@@ -469,7 +469,7 @@
     "Tropic of Cancer"
   ],
   "correct": 2,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "In which ancient city is the famous archaeological wonder 'Petra' located?",
@@ -480,7 +480,7 @@
     "Cairo"
   ],
   "correct": 1,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "Which ocean is the largest and covers more than one-third of the Earth's surface?",
@@ -491,7 +491,7 @@
     "Southern"
   ],
   "correct": 0,
-  "topic": "Social Studies"
+  "topic": "Social-Studies"
 },
 {
   "question": "What is the chemical symbol for gold?",
@@ -502,7 +502,7 @@
     "Pb"
   ],
   "correct": 0,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Who wrote the famous play 'Romeo and Juliet'?",
@@ -513,7 +513,7 @@
     "Jane Austen"
   ],
   "correct": 1,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which instrument is used to measure atmospheric pressure?",
@@ -524,7 +524,7 @@
     "Anemometer"
   ],
   "correct": 2,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which planet is known as the 'Red Planet'?",
@@ -535,7 +535,7 @@
     "Mars"
   ],
   "correct": 3,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "What is the largest mammal on Earth?",
@@ -546,7 +546,7 @@
     "Giraffe"
   ],
   "correct": 0,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "In which country is the famous ancient monument 'Stonehenge' located?",
@@ -557,7 +557,7 @@
     "Greece"
   ],
   "correct": 2,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which novel, written by Harper Lee, deals with themes of racial injustice and moral growth, and features characters like Atticus Finch and Scout?",
@@ -568,7 +568,7 @@
     "1984"
   ],
   "correct": 1,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which country is famous for its tulip fields and windmills?",
@@ -579,7 +579,7 @@
     "Netherlands"
   ],
   "correct": 3,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "The currency of Japan is known as:",
@@ -590,7 +590,7 @@
     "Euro"
   ],
   "correct": 0,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "What is the tallest mountain in the world?",
@@ -601,7 +601,7 @@
     "Mount Fuji"
   ],
   "correct": 1,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which famous scientist formulated the theory of relativity, represented by the equation E=mc^2?",
@@ -612,7 +612,7 @@
     "Marie Curie"
   ],
   "correct": 2,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "Which famous painting, created by Leonardo da Vinci, is known for its enigmatic smile?",
@@ -623,7 +623,7 @@
     "Mona Lisa"
   ],
   "correct": 3,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "In which city is the headquarters of the United Nations located?",
@@ -634,7 +634,7 @@
     "Paris"
   ],
   "correct": 2,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "The 'Mona Lisa' is displayed in which famous museum in Paris, France?",
@@ -645,7 +645,7 @@
     "The Rijksmuseum"
   ],
   "correct": 1,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "What is the largest planet in our solar system?",
@@ -656,7 +656,7 @@
     "Jupiter"
   ],
   "correct": 3,
-  "topic": "General Knowledge"
+  "topic": "General-Knowledge"
 },
 {
   "question": "In which sport would you perform a slam dunk?",
@@ -832,7 +832,7 @@
     "Indira Gandhi"
   ],
   "correct": 3,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the co-founder of Microsoft and one of the world's wealthiest individuals?",
@@ -843,7 +843,7 @@
     "Jeff Bezos"
   ],
   "correct": 1,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which iconic actress is often referred to as 'Hollywood's Golden Age' star?",
@@ -854,7 +854,7 @@
     "Grace Kelly"
   ],
   "correct": 0,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the author of the famous Harry Potter book series?",
@@ -865,7 +865,7 @@
     "Charles Dickens"
   ],
   "correct": 0,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the renowned Italian artist, sculptor, and architect known for painting the ceiling of the Sistine Chapel?",
@@ -876,7 +876,7 @@
     "Pablo Picasso"
   ],
   "correct": 1,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which influential leader led the civil rights movement in the United States and delivered the iconic 'I Have a Dream' speech?",
@@ -887,7 +887,7 @@
     "Martin Luther King Jr."
   ],
   "correct": 3,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the famous theoretical physicist known for his groundbreaking work on black holes and cosmology?",
@@ -898,7 +898,7 @@
     "Neil Degrass Tysoni"
   ],
   "correct": 2,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which legendary musician is often referred to as the 'Queen of Pop'?",
@@ -909,7 +909,7 @@
     "Beyoncé"
   ],
   "correct": 0,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the iconic American inventor and businessman known for developing the electric light bulb, phonograph, and motion picture camera?",
@@ -920,7 +920,7 @@
     "Steve Jobs"
   ],
   "correct": 0,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which Indian cricket legend is widely regarded as one of the greatest batsmen in the history of the sport and is known as the 'Little Master'?",
@@ -931,7 +931,7 @@
     "M.S. Dhoni"
   ],
   "correct": 2,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the Bollywood actor known as the 'King Khan' and has starred in numerous successful films both in India and internationally?",
@@ -942,7 +942,7 @@
     "Amir Khan"
   ],
   "correct": 1,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the former President of India, a renowned scientist, and the 'Missile Man of India'?",
@@ -953,7 +953,7 @@
     "Dr. A.P.J Abdul Kalam"
   ],
   "correct": 3,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which Indian business tycoon is the Chairman of Reliance Industries Limited, one of India's largest conglomerates?",
@@ -964,7 +964,7 @@
     "Azim Premji"
   ],
   "correct": 1,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the former Miss World, Bollywood actress, and philanthropist who has made her mark both in Indian and international cinema?",
@@ -975,7 +975,7 @@
     "Kareena Kapoor"
   ],
   "correct": 0,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Which legendary musician is often referred to as the 'King of Pop'?",
@@ -986,7 +986,7 @@
     "Bob Marley"
   ],
   "correct": 2,
-  "topic": "Famous Personalities"
+  "topic": "Famous-Personalities"
 },
 {
   "question": "Who is the author of the classic novel 'Pride and Prejudice'?",
